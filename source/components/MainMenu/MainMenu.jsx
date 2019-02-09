@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+import Link from '@app/components/Link/Link';
 
 const MainMenu = () => {
     return (
