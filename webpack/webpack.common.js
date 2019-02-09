@@ -58,6 +58,9 @@ module.exports = (options) => {
         },
         resolve: {
             extensions: ['.js', '.jsx'],
+            alias: {
+                '@app': `${process.cwd()}/source/@app`,
+            },
         },
         module: {
             rules: [
