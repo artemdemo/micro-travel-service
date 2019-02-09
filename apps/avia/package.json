@@ -24,25 +24,8 @@
   },
   "homepage": "https://github.com/artemdemo/micro-travel-service#readme",
   "dependencies": {
-    "bluebird": "^3.5.3",
-    "bootstrap": "^4.2.1",
-    "classnames": "^2.2.5",
-    "font-awesome": "^4.7.0",
-    "history": "^4.7.2",
-    "lodash": "^4.17.11",
-    "nanoevents": "^1.0.8",
-    "prop-types": "^15.6.1",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-redux": "^6.0.0",
-    "react-router": "^3.2.1",
-    "redux": "^4.0.1",
-    "redux-actions": "^2.6.4",
-    "redux-saga": "^0.16.2",
     "single-spa": "^4.0.3",
-    "single-spa-react": "^2.9.0",
-    "superagent": "^4.1.0",
-    "superagent-bluebird-promise": "^4.2.0"
+    "single-spa-react": "^2.9.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
