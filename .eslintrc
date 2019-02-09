@@ -2,6 +2,6 @@
     "extends": "artem-react",
     "parser": "babel-eslint",
     "rules": {
-        "import/extensions": ["error", "never"]
+        "import/extensions": ["error", "never", { "less": "always" }]
     }
 }
